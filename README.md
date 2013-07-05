@@ -9,6 +9,8 @@ Unfortunately, the game is not complete, due to lack of free time, money and oth
 
 ![screenshot 1](http://i.imgur.com/cMgkDhs.png)
 
-![screenshot 2](http://i.imgur.com/z8qH7Ho.png)
+![screenshot 2](http://i.imgur.com/lJ55A5V.png)
 
-![screenshot 3](http://i.imgur.com/4rOVx6Z.png)
+![screenshot 3](http://i.imgur.com/z8qH7Ho.png)
+
+![screenshot 4](http://i.imgur.com/4rOVx6Z.png)
